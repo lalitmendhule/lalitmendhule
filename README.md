@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,9,12,14&height=280&section=header&text=LALIT%20MENDHULE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20AI%20%26%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,9,12,14&height=280&section=header&text=LALIT%20MENDHULE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20B.Tech%20AI%20and%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+%26+RAG-powered+systems;AI%2FML+Engineer+%7C+Node.js+%2F+React.js+%2F+Python;Engineering+resilient+microservices+%26+LLM+pipelines;Seeking+enterprise-grade+engineering+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+and+RAG-powered+systems;AI%2FML+Engineer+%7C+Node.js+%2F+React.js+%2F+Python;Engineering+resilient+microservices+and+LLM+pipelines;Seeking+enterprise-grade+engineering+opportunities" alt="Typing SVG" />
 </a>
 
 <br/><br/>
